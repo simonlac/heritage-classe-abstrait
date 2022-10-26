@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\bin\Debug\Heritage_Classe_Abstraite.exe.config
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\bin\Debug\Heritage_Classe_Abstraite.exe
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\bin\Debug\Heritage_Classe_Abstraite.pdb
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\obj\Debug\Heritage_Classe_Abstraite.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\obj\Debug\Heritage_Classe_Abstraite.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\obj\Debug\Heritage_Classe_Abstraite.exe
+C:\Users\18196\source\repos\Heritage_Classe_Abstraite\Heritage_Classe_Abstraite\obj\Debug\Heritage_Classe_Abstraite.pdb
